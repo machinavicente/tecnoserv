@@ -271,12 +271,12 @@ onUnmounted(() => {
 
   .navbar-menu {
     position: fixed;
-    top: 0;
+    top: 68px;
     left: 0;
     right: 0;
     bottom: 0;
     background-color: #ffffff;
-    padding: 80px 0 40px;
+    padding: 40px 0;
     max-height: 0;
     overflow: hidden;
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
@@ -285,11 +285,19 @@ onUnmounted(() => {
     z-index: 999;
   }
 
+  .navbar-scrolled .navbar-menu {
+    top: 60px;
+  }
+
   .navbar-menu-open {
-    max-height: 100vh;
+    max-height: calc(100vh - 68px);
     opacity: 1;
     visibility: visible;
     overflow-y: auto;
+  }
+
+  .navbar-scrolled .navbar-menu-open {
+    max-height: calc(100vh - 60px);
   }
 
   .navbar-list {
@@ -340,6 +348,21 @@ onUnmounted(() => {
     height: 54px;
   }
 
+  .navbar-menu {
+    top: 60px;
+  }
+
+  .navbar-scrolled .navbar-menu {
+    top: 54px;
+  }
+
+  .navbar-menu-open {
+    max-height: calc(100vh - 60px);
+  }
+
+  .navbar-scrolled .navbar-menu-open {
+    max-height: calc(100vh - 54px);
+  }
 
   .logo-icon {
     font-size: 22px;
