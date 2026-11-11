@@ -186,7 +186,7 @@
             <p class="faq-cta-title">¿Tienes más preguntas?</p>
             <p class="faq-cta-subtitle">Estamos aquí para ayudarte</p>
           </div>
-          <a href="https://wa.me/584267379617" target="_blank" class="faq-cta-button">
+          <a href="https://wa.me/584264411443" target="_blank" class="faq-cta-button">
             <i class="ri-whatsapp-line"></i>
             HABLAR CON SOPORTE
           </a>

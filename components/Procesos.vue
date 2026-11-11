@@ -175,7 +175,7 @@
       <!-- CTA -->
       <div class="process-cta">
         <p>¿Empezamos con tu reparación?</p>
-        <a href="https://wa.me/584267379617" target="_blank" class="cta-button">
+        <a href="https://wa.me/584264411443" target="_blank" class="cta-button">
           <i class="ri-whatsapp-line cta-icon"></i>
           CONTACTAR AHORA
         </a>

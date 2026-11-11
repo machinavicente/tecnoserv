@@ -26,8 +26,8 @@
             </div>
             <div class="contact-details">
               <h3 class="contact-label">Teléfono</h3>
-              <a href="tel:+584267379617" class="contact-value">
-                +58 426-737-9617
+              <a href="tel:+584264411443" class="contact-value">
+                +58 426-441-1443
               </a>
               <span class="contact-note">Atención telefónica disponible de lunes a sábado de 8am a 6pm</span>
             </div>
@@ -40,8 +40,8 @@
             </div>
             <div class="contact-details">
               <h3 class="contact-label">WhatsApp</h3>
-              <a href="https://wa.me/5842673796177" target="_blank" class="contact-value">
-                +58 424-737-9617
+              <a href="https://wa.me/584264411443" target="_blank" class="contact-value">
+                +58 426-441-1443
               </a>
               <span class="contact-note">Respuesta inmediata garantizada para consultas y soporte técnico</span>
             </div>
@@ -122,11 +122,11 @@
 
           <!-- Botones de contacto rápido -->
           <div class="quick-contact">
-            <a href="tel:+584267379617" class="quick-btn btn-phone">
+            <a href="tel:+584264411443" class="quick-btn btn-phone">
               <i class="ri-phone-fill"></i>
               LLAMAR POR TELÉFONO
             </a>
-            <a href="https://wa.me/584267379617" target="_blank" class="quick-btn btn-whatsapp">
+            <a href="https://wa.me/584264411443" target="_blank" class="quick-btn btn-whatsapp">
               <i class="ri-whatsapp-fill"></i>
               INICIAR CHAT WHATSAPP
             </a>

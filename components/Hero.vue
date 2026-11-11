@@ -31,10 +31,10 @@
             SOLICITAR PRESUPUESTO
             <i class="ri-arrow-right-line btn-icon"></i>
           </button>
-          <button class="btn-secondary">
+          <a href="tel:+584264411443" class="btn-secondary">
             <i class="ri-phone-line btn-icon"></i>
             LLAMAR AHORA
-          </button>
+          </a>
         </div>
 
         <!-- Badges de confianza -->

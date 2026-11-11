@@ -153,7 +153,7 @@
             <p class="cta-title">¿No estás en nuestra zona?</p>
             <p class="cta-subtitle">Pregunta por nuestro servicio de viaje</p>
           </div>
-          <a href="https://wa.me/584267379617" target="_blank" class="cta-button">
+          <a href="https://wa.me/584264411443" target="_blank" class="cta-button">
             <i class="ri-whatsapp-line button-icon"></i>
             CONSULTAR DISPONIBILIDAD
           </a>

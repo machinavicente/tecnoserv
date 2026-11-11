@@ -56,15 +56,15 @@
           <ul class="footer-contact-list">
             <li>
               <i class="ri-phone-line"></i>
-              <a href="tel:+584265359617">+58 426-737-9617</a>
+              <a href="tel:+584264411443">+58 426-441-1443</a>
             </li>
             <li>
               <i class="ri-whatsapp-line"></i>
-              <a href="https://wa.me/584265359617" target="_blank">+58 426-737-9617</a>
+              <a href="https://wa.me/584264411443" target="_blank">+58 426-441-1443</a>
             </li>
             <li>
               <i class="ri-mail-line"></i>
-              <a href="mailto:servicio@tecnico.com">vicentemachina.dev@gmail.com</a>
+              <a href="mailto:servicio@tecnico.com">juancampos@gmail.com</a>
             </li>
             <li>
               <i class="ri-map-pin-2-line"></i>
